@@ -91,7 +91,7 @@ button {
 }
 
 button:hover {
-    background: rgb(202, 203, 224);
+    background: rgb(212, 213, 226);
 }
 
 @media screen and (max-width: 900px) {
